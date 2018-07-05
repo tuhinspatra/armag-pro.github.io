@@ -1289,7 +1289,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url(../images/intro-bg.jpg) no-repeat center bottom;
+	background: #151515 url(../images/intro-bg.gif) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -1337,7 +1337,7 @@ header .logo a {
 /* Style font for Armag */
 .intro-content h1 .logo-font {
 	font-size: 8.6rem;
-	color: #6FFFFF;
+	color: #FF0077;
 	font-family: "alternityregular", sans-serif;
 }
 .intro-content h6.wide-font{
