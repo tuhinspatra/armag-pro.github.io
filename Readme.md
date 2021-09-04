@@ -1,4 +1,4 @@
-# My persongal website - https://armag-pro.github.io
+## My personal website - https://armag-pro.github.io
 
 
 This repo the contains the original source code of the website hosted at 
